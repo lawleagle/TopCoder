@@ -1,0 +1,20 @@
+-- Example 0
+Do you want to get accepted?
+
+True.
+-- Example 1
+Do you not want to get accepted?
+
+False.
+-- Example 2
+Do you want to not get accepted?
+
+False.
+-- Example 3
+Do you want to get not not accepted?
+
+True.
+-- Example 4
+Do you not want to not get not not not accepted?
+
+False.
