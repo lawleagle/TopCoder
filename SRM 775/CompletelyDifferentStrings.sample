@@ -1,0 +1,34 @@
+-- Example 0
+3
+1
+ab
+
+4
+-- Example 1
+1
+2
+aaaaa
+aaaaa
+
+0
+-- Example 2
+7
+8
+baba
+babe
+cage
+cafe
+feed
+deed
+deaf
+dead
+
+90
+-- Example 3
+3
+3
+abacaa
+abacaa
+acabab
+
+8
