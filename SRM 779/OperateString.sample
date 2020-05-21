@@ -1,0 +1,39 @@
+-- Example 0
+abcde
+1
+3
+
+deabc
+-- Example 1
+abcde
+2
+1
+2
+
+deabc
+-- Example 2
+abracadabra
+1
+-3
+
+braabracada
+-- Example 3
+topcoder
+4
+-5
+7
+-2
+13
+
+dertopco
+-- Example 4
+havefunsolvingthissrmwatchoutfortimeoutsmakesureyoursolutionisfastenough
+6
+1000000000
+-900000000
+800000000
+-700000000
+600000000
+543210987
+
+ingthissrmwatchoutfortimeoutsmakesureyoursolutionisfastenoughhavefunsolv
