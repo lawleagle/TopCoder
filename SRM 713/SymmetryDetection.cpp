@@ -21,7 +21,7 @@ struct SymmetryDetection
         {
             for (int j = 0; j < a[i].size()/2 && vert; ++j)
             {
-                if (a[i][j] != a[i][a[i].size() - j - 1])
+                if (a[i][j] != a[i][a[i].size()-j-1])
                 {
                     vert = 0;
                 }
